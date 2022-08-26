@@ -56,7 +56,13 @@ const opportunitiesSchema = new mongoose.Schema({
     },
 }, {
     versionKey: false,
+}, {
+    timestamps: true
 });
+
+
+
+
 
 const opportunitiesCollection = mongoose.model("collectionOpportunities", opportunitiesSchema);
 module.exports = opportunitiesCollection
