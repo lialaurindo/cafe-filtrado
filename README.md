@@ -47,7 +47,12 @@ Café Filtrado é o projeto final do bootcamp Todas em Tech (Turma On16) da Repr
 
 ### 🌱 Plantio e Florada: semeando a ideia do projeto 🌱
 
+<<<<<<< HEAD
 O Filtrado, é uma bebida muito presente no dia a dia dos brasileiros e, em muitos casos, a mais acessível para muitos. Com relação aos demais tipos de café, tem seu preparo mais lento e pouco automatizado, por isso ele foi escolhido para representar esta API, apesar do objetivo de fomentar a iniciação e formação de mulheres para a cultura cafeeira, tornando este processo mais acessível, sabemos que isso faz parte de um movimento cuidadoso e que seu avanço não é imediato, mas que pode ser uma tentativa dentre muitas, afinal, é o que as mulheres tem vivido hoje no mercado da tecnologia, que também já foi um campo sem muitos frutos, mas que hoje tem evoluído muito com as comunidades e ações afirmativas. 
+=======
+O Filtrado, é uma bebida muito presente no dia a dia dos brasileiros e, em muitos casos, a mais acessível para muitos. Com relação aos demais tipos de café, tem seu preparo mais lento e pouco automatizado, por isso ele foi escolhido para representar esta API, apesar do objetivo de fomentar a iniciação e formação de mulheres para a cultura cafeeira, tornando este processo mais acessível, sabemos que isso faz parte de um movimento cuidadoso e que seu avanço não é imediato, mas que pode ser uma tentativa dentre muitas, afinal, é o que as mulheres tem vivido hoje no mercado da tecnologia, que também já foi um campo sem muitos frutos, mas que hoje tem evoluído muito com as comunidades e ações afirmativas.
+
+>>>>>>> db3e241d579283189e7edfb5b9b9013b655a599b
 
 <img src="/public/rodape.png" width="150">
 
@@ -95,14 +100,14 @@ Deste modo instalamos todas as dependências, modelamos a Schema Json e criamos 
 
 #### Rotas para /opportunities
 
-| Verbo |                Rota                 |             Descrição da Rota                | Esperado      |
-| :---: | :---------------------------------: | :------------------------------------------: |:--------------|
-|  📖 GET  |      `/oportunities/search`      |       listar todas as oportunidades       | <img src="para-casa/games/img/get-all.gif" width="250"> |
-| 🔍 GET  |   `/opportunities/:id`    |     listar oportunidades pelo ID    | <img src="para-casa/games/img/get-id.gif" widht="100"> |
-🔍 GET  |   `opportunities/category?baristas`    |     listar oportunidades pela categoria    | <img src="para-casa/games/img/get-id.gif" widht="100"> |
-| ➕ POST   |      `/opportunities/new`      | cadastrar uma nova oportunidade                 | <img src="para-casa/games/img/post-games.gif" widht="100"> |
-| ❌ DELET |    `/opportunities/delete`    | deletar uma oportunidade já cadastrada                | <img src="para-casa/games/img/delete-id.gif" widht="100"> |
-| ✏ PATCH | `/opportunities/:id` | atualizar uma oportunidade já cadastrada pelo seu ID| <img src="para-casa/games/img/patch-liked.gif" widht="100"> |
+| Verbo |                Rota                 |             Descrição da Rota                |    
+| :---: | :---------------------------------: | :------------------------------------------: |
+|  📖 GET  |      `/oportunities/search`      |       listar todas as oportunidades       | 
+| 🔍 GET  |   `/opportunities/:id`    |     listar oportunidades pelo ID    | 
+🔍 GET  |   `opportunities/category?baristas`    |     listar oportunidades pela categoria    | 
+| ➕ POST   |      `/opportunities/new`      | cadastrar uma nova oportunidade                 | 
+| ❌ DELET |    `/opportunities/delete`    | deletar uma oportunidade já cadastrada                | 
+| ✏ PATCH | `/opportunities/:id` | atualizar uma oportunidade já cadastrada pelo seu ID| 
 
 <br/>
 
@@ -121,16 +126,16 @@ Deste modo instalamos todas as dependências, modelamos a Schema Json e criamos 
 
 #### Rotas para /users
 
-| Verbo |                Rota                 |             Descrição da Rota                | Esperado      |
-| :---: | :---------------------------------: | :------------------------------------------: |:--------------|
-|  📖 GET  |      `/users`      |       rota principal       | <img src="para-casa/games/img/get-all.gif" width="250"> |
-|  📖 GET  |      `/users/new`      |       cadastrar novo usuário      | <img src="para-casa/games/img/get-all.gif" width="250"> |
-|  📖 GET  |      `/users/search`      |       listar todos os usuários cadastrados       | <img src="para-casa/games/img/get-all.gif" width="250"> |
-| 🔍 GET  |   `/users/search/:id`    |     buscar usuário pelo seu ID    | <img src="para-casa/games/img/get-id.gif" widht="100"> |
-| 🔍 GET  |   `/users/login`    |     logar com usuário cadastrado    | <img src="para-casa/games/img/get-id.gif" widht="100"> |
-| ➕ POST   |      `/users/new`      | cadastrar um novo usuário                | <img src="para-casa/games/img/post-games.gif" widht="100"> |
-| ❌ DELET |    `/users/delete`    | deletar usuários pelo seu ID            | <img src="para-casa/games/img/delete-id.gif" widht="100"> |
-| ✏ PATCH | `/users/:id` | atualizar informação de usuário já cadastrado usando o ID| <img src="para-casa/games/img/patch-liked.gif" widht="100"> |
+| Verbo |                Rota                 |             Descrição da Rota                |
+| :---: | :---------------------------------: | :------------------------------------------: |
+|  📖 GET  |      `/users`      |       rota principal       |
+|  📖 GET  |      `/users/new`      |       cadastrar novo usuário      |
+|  📖 GET  |      `/users/search`      |       listar todos os usuários cadastrados       | 
+| 🔍 GET  |   `/users/search/:id`    |     buscar usuário pelo seu ID    | 
+| 🔍 GET  |   `/users/login`    |     logar com usuário cadastrado    | 
+| ➕ POST   |      `/users/new`      | cadastrar um novo usuário                | 
+| ❌ DELET |    `/users/delete`    | deletar usuários pelo seu ID            | 
+| ✏ PATCH | `/users/:id` | atualizar informação de usuário já cadastrado usando o ID| 
 
 <img src="/public/rodape.png" width="150">
 
@@ -228,8 +233,12 @@ Foi nesse evento que pude ouvir falas importantes sobre a representatividade de 
 <img src="/public/reprograma.png" width="250">
 
 <h6>
+<<<<<<< HEAD
     <br>
     <p align="center"> Este projeto faz parte do cronograma de finalização do bootcamp Todas em Tech promovido pela {reprograma}. A iniciativa tem como objetivo "reprogramar a forma como mulheres se percebem como contribuidoras no setor de tecnologia. E tem como missão inspirar, empoderar e ensinar mulheres, por meio de conhecimentos de computação e ferramentas de capacitação profissional."
+=======
+ <p align="center"> Este projeto faz parte do cronograma de finalização do bootcamp Todas em Tech promovido pela {reprograma}. A iniciativa tem como objetivo "reprogramar a forma como mulheres se percebem como contribuidoras no setor de tecnologia. E tem como missão é inspirar, empoderar e ensinar mulheres, por meio de conhecimentos de computação e ferramentas de capacitação profissional."
+>>>>>>> db3e241d579283189e7edfb5b9b9013b655a599b
  <p>
 
  [💜](https://reprograma.com.br/)
