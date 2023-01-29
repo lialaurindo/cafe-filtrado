@@ -47,12 +47,7 @@ Café Filtrado é o projeto final do bootcamp Todas em Tech (Turma On16) da Repr
 
 ### 🌱 Plantio e Florada: semeando a ideia do projeto 🌱
 
-<<<<<<< HEAD
 O Filtrado, é uma bebida muito presente no dia a dia dos brasileiros e, em muitos casos, a mais acessível para muitos. Com relação aos demais tipos de café, tem seu preparo mais lento e pouco automatizado, por isso ele foi escolhido para representar esta API, apesar do objetivo de fomentar a iniciação e formação de mulheres para a cultura cafeeira, tornando este processo mais acessível, sabemos que isso faz parte de um movimento cuidadoso e que seu avanço não é imediato, mas que pode ser uma tentativa dentre muitas, afinal, é o que as mulheres tem vivido hoje no mercado da tecnologia, que também já foi um campo sem muitos frutos, mas que hoje tem evoluído muito com as comunidades e ações afirmativas. 
-=======
-O Filtrado, é uma bebida muito presente no dia a dia dos brasileiros e, em muitos casos, a mais acessível para muitos. Com relação aos demais tipos de café, tem seu preparo mais lento e pouco automatizado, por isso ele foi escolhido para representar esta API, apesar do objetivo de fomentar a iniciação e formação de mulheres para a cultura cafeeira, tornando este processo mais acessível, sabemos que isso faz parte de um movimento cuidadoso e que seu avanço não é imediato, mas que pode ser uma tentativa dentre muitas, afinal, é o que as mulheres tem vivido hoje no mercado da tecnologia, que também já foi um campo sem muitos frutos, mas que hoje tem evoluído muito com as comunidades e ações afirmativas.
-
->>>>>>> db3e241d579283189e7edfb5b9b9013b655a599b
 
 <img src="/public/rodape.png" width="150">
 
@@ -217,31 +212,24 @@ rota: `localhost:3000/opportunities`
 [🔝 Voltar ao início](#sobre)
 
 
-Um Chai Latte com muito amor! 
-
-Minha irmã trabalha com café faz mais de 5 anos, desde então o café tornou-se mais que mais que uma bebida, é como ela compartilha seu afeto e isso me inspira muito! 
+Um Chai Latte com muito amor e inspiração:
+- Minha irmã trabalha com café faz mais de 5 anos, desde então o café tornou-se mais que mais que uma bebida, é como ela compartilha seu afeto e isso me inspira muito! 
 Este projeto é dedicado à May, minha barista favorita que faz meu café favorito!
 
 
-São Paulo Coffee Festival 2022
-O evento teve como proposta apresentar e estreitar laços da comunidade de cafés especiais com o consumidor final. Foi onde também ocorreu o Campeonato Brasileiro de Barista.
+- São Paulo Coffee Festival 2022: o evento teve como proposta apresentar e estreitar laços da comunidade de cafés especiais com o consumidor final. Foi onde também ocorreu o Campeonato Brasileiro de Barista.
 Foi nesse evento que pude ouvir falas importantes sobre a representatividade de muheres trabalhando com café na palestra 
-
 
 
 <center>
 <img src="/public/reprograma.png" width="250">
-
 <h6>
-<<<<<<< HEAD
     <br>
     <p align="center"> Este projeto faz parte do cronograma de finalização do bootcamp Todas em Tech promovido pela {reprograma}. A iniciativa tem como objetivo "reprogramar a forma como mulheres se percebem como contribuidoras no setor de tecnologia. E tem como missão inspirar, empoderar e ensinar mulheres, por meio de conhecimentos de computação e ferramentas de capacitação profissional."
-=======
- <p align="center"> Este projeto faz parte do cronograma de finalização do bootcamp Todas em Tech promovido pela {reprograma}. A iniciativa tem como objetivo "reprogramar a forma como mulheres se percebem como contribuidoras no setor de tecnologia. E tem como missão é inspirar, empoderar e ensinar mulheres, por meio de conhecimentos de computação e ferramentas de capacitação profissional."
->>>>>>> db3e241d579283189e7edfb5b9b9013b655a599b
  <p>
-
+ 
  [💜](https://reprograma.com.br/)
+ 
 </h6>
 
 | <img src="/public/profile.gif">|            `Oi, eu sou a Lia! Me interesso por Back-End e, ao que tudo indica, por café também! haha. Acredito que tecnologia é isso: criar possilidades, seja onde for!`                  |  
@@ -251,7 +239,5 @@ Foi nesse evento que pude ouvir falas importantes sobre a representatividade de 
 
 ![https://www.linkedin.com/in/lialaurindo/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![liamaralaurindo@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )
-
-
 
 
