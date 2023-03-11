@@ -14,7 +14,7 @@
 
 ## Console.log ('cheirinho de café! ')
 
-Café Filtrado é o projeto final do bootcamp Todas em Tech (Turma On16) da Reprograma que consiste em uma API Rest para reunir iniciativas gratuitas para formação de mulheres no setor cafeeiro. Ela propõe um CRUD criado com a utilização de Node.Js e Express.js para manipulação de dados armazenados no MongoDB Atlas. Temos dados relacionados a oportunidades gratuitas e, também, de usuários, criando uma cadeia de publicações colaborativa e autenticada. Esta API está publicada no Heroku e com documentação registrada pelo Swagger para melhor entendimento da estrutura de requisições e status das mesmas.
+Café Filtrado é o projeto final do bootcamp Todas em Tech (Turma On16) da Reprograma que consiste em uma API Rest para reunir iniciativas gratuitas para formação de mulheres no setor cafeeiro. Ela propõe um CRUD criado com a utilização de Node.Js e Express.js para manipulação de dados armazenados no MongoDB Atlas. Temos dados relacionados a oportunidades gratuitas e, também, de usuários, criando uma cadeia de publicações colaborativa e autenticada. Esta API está publicada no Heroku e com documentação registrada pelo Swagger para melhor entendimento da estrutura de requisições.
 
 </center>
 
@@ -218,7 +218,7 @@ Este projeto é dedicado à May, minha barista favorita que faz meu café favori
 
 
 - São Paulo Coffee Festival 2022: o evento teve como proposta apresentar e estreitar laços da comunidade de cafés especiais com o consumidor final. Foi onde também ocorreu o Campeonato Brasileiro de Barista.
-Foi nesse evento que pude ouvir falas importantes sobre a representatividade de muheres trabalhando com café na palestra 
+Foi nesse evento que pude ouvir falas importantes sobre a representatividade de muheres trabalhando com café.
 
 
 <center>
