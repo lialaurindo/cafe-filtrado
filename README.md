@@ -213,7 +213,7 @@ rota: `localhost:3000/opportunities`
 
 
 Um Chai Latte com muito amor e inspiração:
-- Minha irmã trabalha com café faz mais de 5 anos, desde então o café tornou-se mais que mais que uma bebida, é como ela compartilha seu afeto e isso me inspira muito! 
+- Minha irmã trabalha com café faz mais de 5 anos, desde então o café tornou-se mais que uma bebida, é como ela compartilha seu afeto e isso me inspira muito! 
 Este projeto é dedicado à May, minha barista favorita que faz meu café favorito!
 
 
